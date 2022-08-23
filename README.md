@@ -35,7 +35,7 @@
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |     Programm starten         |   eine Zahl      |     Wenn die Zahl beim ersten Versuch richtig ist bekommt man eine kleine Belohnung           |
-| ...  |     Programm starten         |  Falsche Versuche       |     Wenn die geratene Zahl falsch ist soll es im Programm ausgegeben werden.              |
+| 1.2 |     Programm starten         |  Falsche Versuche       |     Wenn die geratene Zahl falsch ist soll es im Programm ausgegeben werden.              |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -53,7 +53,7 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |  30-45 Minuten|
+| 1.A  |  30.08     |           |              |  30-45 Minuten|
 | ...  |       |           |              |               |
 
 Total: 
