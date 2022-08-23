@@ -26,7 +26,7 @@
 | 2  |        Kann        |      | Als ein User möchte ich das alle meine falschen Versuchen angezeigt werden, damit ich nicht vergesse was ich alles schon eingetippt habe. |
 | 3  |            Kann     |      | Als ein User möchte ich bei falschen Antworten eine kleine Hilfe bekommen, damit ich schneller zu einer Lösung kommen kann. |
 | 4  |        Muss        |      | Als ein User möchte ich eine klare Fragestellung haben, damit ich keine unklarheiten habe.                                   |
-
+|  5    |      Kann  |        | Als ein User möchte ich einen Limit von versuchen haben, damit ich herausgefordert bin.         |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -34,8 +34,8 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |     57            |
-| ...  |              |         |                   |
+| 1.1  |     Programm starten         |   eine Zahl      |     Wenn die Zahl beim ersten Versuch richtig ist bekommt man eine kleine Belohnung           |
+| ...  |     Programm starten         |  Falsche Versuche       |     Wenn die geratene Zahl falsch ist soll es im Programm ausgegeben werden.              |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
