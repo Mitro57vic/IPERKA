@@ -22,11 +22,12 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  |    Kann         |      | Als ein User möchte ich eine Belohnung bei first try richtigen antworten erhalten, damit ich mehr motivation zum Spielen habe. |
-| 2  |        Kann        |      | Als ein User möchte ich das alle meine falschen Versuchen angezeigt werden, damit ich nicht vergesse was ich alles schon eingetippt habe. |
-| 3  |            Kann     |      | Als ein User möchte ich bei falschen Antworten eine kleine Hilfe bekommen, damit ich schneller zu einer Lösung kommen kann. |
+| 1  |    Kann         |   Qualität   | Als ein User möchte ich eine Belohnung bei first try richtigen antworten erhalten, damit ich mehr motivation zum Spielen habe. |
+| 2  |        kann        |  Qualität    | Als ein User möchte ich das mir angezeigt wird ob meine geratene Zahl zu gross oder zu klein ist. |
+| 3  |            Kann     |  Qualität  | Als ein User möchte ich bei falschen Antworten eine kleine Hilfe bekommen, damit ich schneller zu einer Lösung kommen kann. |
 | 4  |        Muss        |      | Als ein User möchte ich eine klare Fragestellung haben, damit ich keine unklarheiten habe.                                   |
-|  5    |      Kann  |        | Als ein User möchte ich einen Limit von versuchen haben, damit ich herausgefordert bin.         |
+|  5    |      Kann  |     Qualität   | Als ein User möchte ich einen Limit von versuchen haben, damit ich herausgefordert bin.         |
+|6|Muss|Funktional|Als ein USer möchte ich wissen ob meine geratene ZAhl korrekt ist damit ich weiss ob ich das Spiel gewonnen habe|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -57,10 +58,12 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  30.08     |           |              |  30-45 Minuten|
-| ...  |       |           |              |               |
-
-Total: 
+| 1.A  |  30.08     |    Filip Mitrovic       |     Das Programm soll nach jeder falschen Eingabe eine neue Chance kriegen sie richtig zu erraten.         |  30-45 Minuten|
+| 2.A |    06.09   |     Filip Mitrovic      |      Das Programm soll Hinweise zu falsch geratenen Zahlen ausgeben.        |    30 Minuten           |
+|3.A|06.09|Filip Mitrovic|Das Programm soll mich fragen ob ich ein neues Spiel spielen möchte.|30 Minuten|
+|4.A|06.09|Filip Mitrovic|Das Programm soll klar für mich sein was ich zu tun habe.|30 Minuten|
+|5.A|06.09|Filip Mitrovic|Das Programm soll den User solang spielen lassen so oft er möchte |30-45 Minuten|
+Total: 5 Arbeitspakete = 3 Stunden -> Ich habe  um die 2-3 h gebraucht
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
