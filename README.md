@@ -35,7 +35,11 @@
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |     Programm starten         |   eine Zahl      |     Wenn die Zahl beim ersten Versuch richtig ist bekommt man eine kleine Belohnung           |
-| 1.2 |     Programm starten         |  Falsche Versuche       |     Wenn die geratene Zahl falsch ist soll es im Programm ausgegeben werden.              |
+| 1.2 |     Programm starten         |  Falsche Versuche       |     Wenn die geratene Zahl falsch ist soll es im Programm ausgegeben werden ob die geheime Zahl grösser oder kleiner als seine  geratene Zahl ist .              |
+|1.3|Die richtige Zahl wurde eingegeben und das Programm soll fragen ob er ein neues Spiel spielen möchte|Ja, ich möchte ein neues Spiel spielen|Wenn der USer ein neues Spiel spielen möchte wird im Programm ein Random Generator ausgeführt und ausgegeben.|
+|1.4|Die richtige Zahl wurde eingegeben und das Programm soll fragen ob er ein neues Spiel spielen möchte|Nein ich möchte kein neues Spie spielen|Programm wird beendet|
+|1.5|Programm fragt nach nochmal ein neues Spiel|Ja|Eine Zahl zwischen 1-120 soll solange vom User geraten werden bis  die geheime Zahl richtig erraten worden ist|
+|1.6|Programm fragt nach nochmal ein neues Spiel|Nein|Programm soll beendet werden|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
