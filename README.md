@@ -109,7 +109,7 @@ Total: 7 Arbeitspakete = 3 Stunden -> Ich habe  um die 3-4 h gebraucht
 | III| Erste Zahl erraten und nochmal ein Spiel gestartet (Filip Kritzner) | 3 | Programm fragt, ob ich noch ein Spiel spielen will | "Geben Sie eine Zahl zwischen 1-120 ein um unsere geheime Zahl zu erraten" |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-kdjfkjdf
-## 6 Auswertenmdnksad
+kdjfkjdfkojfkds
+## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.djfkjd
+✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
