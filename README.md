@@ -112,4 +112,4 @@ Total: 7 Arbeitspakete = 3 Stunden -> Ich habe  um die 3-4 h gebraucht
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.djfkjd
