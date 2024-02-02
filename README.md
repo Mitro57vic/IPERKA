@@ -110,6 +110,6 @@ Total: 7 Arbeitspakete = 3 Stunden -> Ich habe  um die 3-4 h gebraucht
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 kdjfkjdf
-## 6 Auswerten
+## 6 Auswertenmdnksad
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.djfkjd
